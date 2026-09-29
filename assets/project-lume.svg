@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480">
+  <rect width="720" height="480" fill="#e8e2d5"/>
+  <rect x="34" y="30" width="652" height="420" rx="12" fill="#f8f6ef"/>
+  <text x="64" y="71" fill="#334538" font-family="Georgia,serif" font-size="24">atelier lume</text>
+  <text x="532" y="69" fill="#667063" font-family="Arial,sans-serif" font-size="12">OBJETS · HISTOIRE · PANIER</text>
+  <path d="M64 96h592" stroke="#d8d8cc"/>
+  <rect x="64" y="122" width="292" height="288" rx="4" fill="#d3d5c4"/>
+  <circle cx="221" cy="255" r="91" fill="#b7bfaa"/>
+  <path d="M171 214h100l-11 119c-1 11-9 19-20 19h-39c-11 0-19-8-20-19z" fill="#885d40"/>
+  <path d="M194 213c0-27 11-41 27-41s27 14 27 41" fill="none" stroke="#885d40" stroke-width="12"/>
+  <path d="M181 250h80M190 278h64" stroke="#d1a47c" stroke-linecap="round" stroke-width="4"/>
+  <text x="390" y="161" fill="#a46e50" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">LES PETITES SÉRIES</text>
+  <text x="388" y="206" fill="#253129" font-family="Georgia,serif" font-size="34">Fait main,</text>
+  <text x="388" y="246" fill="#253129" font-family="Georgia,serif" font-size="34" font-style="italic">fait pour durer.</text>
+  <text x="390" y="288" fill="#667063" font-family="Arial,sans-serif" font-size="14">Des pièces uniques et des histoires</text>
+  <text x="390" y="310" fill="#667063" font-family="Arial,sans-serif" font-size="14">à garder près de soi.</text>
+  <rect x="390" y="340" width="168" height="42" rx="21" fill="#334538"/>
+  <text x="412" y="366" fill="#f8f6ef" font-family="Arial,sans-serif" font-size="13">Découvrir l’atelier   ↗</text>
+</svg>

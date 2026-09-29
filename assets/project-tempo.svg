@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480">
+  <rect width="720" height="480" fill="#e2e8e0"/>
+  <rect x="34" y="30" width="652" height="420" rx="12" fill="#f8f8f3"/>
+  <rect x="34" y="30" width="148" height="420" rx="12" fill="#e8ece5"/>
+  <path d="M174 30h8v420h-8z" fill="#e8ece5"/>
+  <circle cx="66" cy="69" r="15" fill="#285b49"/>
+  <text x="58" y="74" fill="#f8f8f3" font-family="Georgia,serif" font-size="15">t</text>
+  <text x="91" y="74" fill="#253129" font-family="Arial,sans-serif" font-size="16" font-weight="700">tempo</text>
+  <text x="55" y="130" fill="#7d8579" font-family="Arial,sans-serif" font-size="11">ESPACE DE TRAVAIL</text>
+  <text x="56" y="162" fill="#344438" font-family="Arial,sans-serif" font-size="13">Vue d’ensemble</text>
+  <text x="56" y="197" fill="#687366" font-family="Arial,sans-serif" font-size="13">Mon équipe</text>
+  <text x="56" y="232" fill="#687366" font-family="Arial,sans-serif" font-size="13">Réglages</text>
+  <text x="212" y="77" fill="#253129" font-family="Georgia,serif" font-size="26">Bonjour, Camille.</text>
+  <text x="212" y="102" fill="#7a8076" font-family="Arial,sans-serif" font-size="12">Une vue claire sur ce qui compte cette semaine.</text>
+  <rect x="212" y="130" width="438" height="72" rx="9" fill="#eaf0e7"/>
+  <circle cx="251" cy="166" r="22" fill="#d2e0d3"/>
+  <text x="243" y="172" fill="#285b49" font-family="Arial,sans-serif" font-size="17">✓</text>
+  <text x="286" y="160" fill="#7a8076" font-family="Arial,sans-serif" font-size="11">CETTE SEMAINE</text>
+  <text x="286" y="183" fill="#253129" font-family="Arial,sans-serif" font-size="16" font-weight="700">3 journées d’équipe ensemble</text>
+  <text x="216" y="232" fill="#253129" font-family="Arial,sans-serif" font-size="14" font-weight="700">Disponibilités</text>
+  <g fill="#7b8278" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">
+    <text x="331" y="259">LUN.</text><text x="397" y="259">MAR.</text><text x="463" y="259">MER.</text><text x="529" y="259">JEU.</text><text x="595" y="259">VEN.</text>
+  </g>
+  <path d="M296 272h318M296 312h318M296 352h318M296 392h318" stroke="#e4e6df"/>
+  <rect x="316" y="277" width="88" height="26" rx="13" fill="#d3e4d5"/>
+  <rect x="383" y="317" width="88" height="26" rx="13" fill="#d3e4d5"/>
+  <rect x="448" y="357" width="88" height="26" rx="13" fill="#b8d2bb"/>
+  <text x="334" y="295" fill="#355640" font-family="Arial,sans-serif" font-size="10">Équipe</text>
+  <text x="401" y="335" fill="#355640" font-family="Arial,sans-serif" font-size="10">Équipe</text>
+  <text x="468" y="375" fill="#355640" font-family="Arial,sans-serif" font-size="10">Équipe</text>
+</svg>

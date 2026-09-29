@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480">
+  <rect width="720" height="480" fill="#e1e7df"/>
+  <rect x="34" y="30" width="652" height="420" rx="12" fill="#f7f7f1"/>
+  <rect x="34" y="30" width="652" height="54" rx="12" fill="#f0f1e9"/>
+  <path d="M34 73h652" stroke="#d8d8cc"/>
+  <circle cx="67" cy="57" r="14" fill="#285b49"/>
+  <path d="M67 45v13l9 5" fill="none" stroke="#f7f7f1" stroke-linecap="round" stroke-width="2"/>
+  <text x="94" y="63" fill="#344438" font-family="Arial,sans-serif" font-size="16" font-weight="700">boussole</text>
+  <text x="500" y="61" fill="#6d766c" font-family="Arial,sans-serif" font-size="11">API · INDICATEURS · ASSOCIATION</text>
+  <text x="67" y="130" fill="#26342b" font-family="Georgia,serif" font-size="27">Les bons repères,</text>
+  <text x="67" y="163" fill="#285b49" font-family="Georgia,serif" font-size="27" font-style="italic">sans bruit.</text>
+  <text x="68" y="193" fill="#7a8076" font-family="Arial,sans-serif" font-size="12">Données clés · mise à jour il y a 4 minutes</text>
+  <rect x="65" y="222" width="180" height="111" rx="8" fill="#edf0e9"/>
+  <rect x="266" y="222" width="180" height="111" rx="8" fill="#edf0e9"/>
+  <rect x="467" y="222" width="183" height="111" rx="8" fill="#edf0e9"/>
+  <text x="84" y="251" fill="#70796f" font-family="Arial,sans-serif" font-size="11">PERSONNES ACCOMPAGNÉES</text>
+  <text x="84" y="292" fill="#2e4938" font-family="Georgia,serif" font-size="30">1 248</text>
+  <text x="84" y="315" fill="#285b49" font-family="Arial,sans-serif" font-size="11">↑ 12 % ce trimestre</text>
+  <text x="284" y="251" fill="#70796f" font-family="Arial,sans-serif" font-size="11">ACTIONS MENÉES</text>
+  <text x="284" y="292" fill="#2e4938" font-family="Georgia,serif" font-size="30">86</text>
+  <text x="284" y="315" fill="#285b49" font-family="Arial,sans-serif" font-size="11">↑ 8 % ce trimestre</text>
+  <text x="485" y="251" fill="#70796f" font-family="Arial,sans-serif" font-size="11">TAUX DE SUIVI</text>
+  <text x="485" y="292" fill="#2e4938" font-family="Georgia,serif" font-size="30">94 %</text>
+  <text x="485" y="315" fill="#285b49" font-family="Arial,sans-serif" font-size="11">stable depuis juin</text>
+  <path d="M69 370h573M69 399h573" stroke="#e1e4dc"/>
+  <path d="M80 392l77-15 60 7 75-32 71 19 77-28 68 12 80-23" fill="none" stroke="#285b49" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <circle cx="433" cy="343" r="4" fill="#285b49"/>
+</svg>

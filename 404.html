@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <meta name="theme-color" content="#f4f3ec">
+    <title>Page introuvable — Alex Martin</title>
+    <meta name="description" content="Cette page n’existe pas. Retrouvez les projets et l’expertise d’Alex Martin, développeur full-stack à Lyon.">
+    <link rel="canonical" href="https://halik81.github.io/portfolio-demo/404.html">
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="css/style.css">
+    <script>
+      try {
+        const savedTheme = localStorage.getItem("portfolio-theme");
+        if (savedTheme === "light" || savedTheme === "dark") {
+          document.documentElement.dataset.theme = savedTheme;
+        }
+      } catch (error) {
+        console.warn("Le thème ne peut pas être mémorisé dans ce navigateur.", error);
+      }
+    </script>
+  </head>
+  <body>
+    <main class="section-shell">
+      <div class="container">
+        <p class="eyebrow">Erreur 404 · On s’est perdus ?</p>
+        <h1 class="section-heading h1-404">Cette page n’existe pas.</h1>
+        <p class="section-description">Le lien a peut-être changé. Retrouvez le portfolio depuis l’accueil.</p>
+        <a class="button button--primary" href="./">Retour à l’accueil <span aria-hidden="true">↗</span></a>
+      </div>
+    </main>
+  </body>
+</html>
